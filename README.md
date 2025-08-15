@@ -24,4 +24,5 @@ A list of editors can be found here:
 | clickable desktop | No | Yes | No | Yes, but two clicks | Yes, but two clicks | Yes | crashes the note | Yes | No, crashes note | Yes, two clicks and requires `https://` |
 | clickable mobile | No | Yes | No | Yes, but two clicks | Yes, but two clicks | No | crashes the note | Yes | No | Yes |
 | **Search** | No | No | No | No | No | Yes | No | No | No | No |
+| Yes counter (13) | 3 | 9 | 9 | 11 | 9 | 6 | 8 | 10 | 9 | 11 |
 | Comment | | Split panel editor | Same as Indent Editor? | supports fonts | | | Beta | Buggy, adding an elements sometimes removes existing | Split panel editor | |
